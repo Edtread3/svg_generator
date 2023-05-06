@@ -1,0 +1,7 @@
+# SVG Logo Generator
+## by : Edwin Treadwell
+
+### Asks a prompt of questions to user to create logo.
+### Ask for max length of 3 characters.
+### Allow user to select a shape then color of choice.
+### Then creates file for svg logo created to be displayed.
